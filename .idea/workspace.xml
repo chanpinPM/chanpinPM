@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f67ebb4-55b9-48b3-b92a-4df8ea09ba02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/contact.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/date_format.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/label.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/rights.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/share.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/tabs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css-selector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/favicons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/fixlinenos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js-selector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/lozad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/mode-toggle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/no-linenos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-paginator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-sharing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/related-posts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/search-loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/search-results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/timeago.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/topbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/trending-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/update-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-08-text-and-typography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-08-write-a-new-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-09-getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-11-customize-the-favicon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scripts/sh/create_pages.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scripts/sh/dump_lastmod.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_scripts/sh/sync_monitor.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_addon/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_addon/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_addon/module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_addon/syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_addon/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_colors/dark-syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_colors/dark-typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_colors/light-syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_colors/light-typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/archives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/categories.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/category-tag.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/lib/bootstrap-toc.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/post.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/tags.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-icon-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/android-icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/ms-icon-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/ms-icon-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicons/ms-icon-70x70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/devices-mockup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/download-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/mockup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sample/upload-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons/back-to-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons/copy-link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons/search-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons/sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons/topbar-switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_commons/topbar-title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_home-post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_pv-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_utils/category-collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_utils/pageviews.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_utils/timeago.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_utils/toc-filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/_utils/tooltip-loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/categories.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/data/cache-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/data/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/home.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lib/_bootstrap-toc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lib/_countUp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lib/jquery.disqusloader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/page.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/post.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README_zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/archives.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/categories.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs/tags.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/deploy.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/publish.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/pv.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/test.sh" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g8P7Sg20IabZmtUYEE75unnKew" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f67ebb4-55b9-48b3-b92a-4df8ea09ba02" name="Default Changelist" comment="" />
+      <created>1597493078962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597493078962</updated>
+      <workItem from="1597493080222" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
